@@ -1,0 +1,11 @@
+ID,Municipality,Species,Group,Trophic_guild,Entity_key,d13C,d15N,THg
+A001CI,Mecaya,Amazilia versicolor,Birds,Nectarivore,Birds | Nectarivore,-25.133,9.852,NA
+A003CRI,Mecaya,Phaethornis atrimentalis,Birds,Nectarivore,Birds | Nectarivore,-28.734,10.027,22.6
+A004CRI,Mecaya,Phaethornis bourcieri,Birds,Nectarivore,Birds | Nectarivore,-26.648,8.566,NA
+A005CRI,Mecaya,Glaucis hirsutus,Birds,Nectarivore,Birds | Nectarivore,-28.304,10.369,10.37
+A014CRI,Mecaya,Glaucis hirsutus,Birds,Nectarivore,Birds | Nectarivore,-28.421,9.96,2.252
+A015CRI,Mecaya,Amazilia versicolor,Birds,Nectarivore,Birds | Nectarivore,-27.409,9.567,1.576
+A019CRI,Curillo,Amazilia versicolor,Birds,Nectarivore,Birds | Nectarivore,-26.794,8.633,0.5545
+A021CRI,Curillo,Phaethornis hispidus,Birds,Nectarivore,Birds | Nectarivore,-28.418,8.932,8.732
+A022CRI,Curillo,Florisuga mellivora,Birds,Nectarivore,Birds | Nectarivore,-26.052,11.393,1.643
+A023CRI,Curillo,Phaethornis hispidus,Birds,Nectarivore,Birds | Nectarivore,-25.375,8.691,0.9054

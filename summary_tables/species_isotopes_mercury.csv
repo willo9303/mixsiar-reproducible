@@ -1,0 +1,110 @@
+Group,Trophic_guild,Species,n,mean_d13C,sd_d13C,mean_d15N,sd_d15N,mean_THg,sd_THg,n_THg
+Allochthonous insects,NA,Fish_stomach_content,53,-25.420698113207546,1.7362005000409733,4.656792452830189,2.3962814650916835,NA,NA,0
+Allochthonous plants,NA,Fruits,14,-28.99357142857143,3.5330605758983284,5.8,2.533219295678919,NA,NA,0
+Allochthonous plants,NA,Seeds,10,-27.384999999999998,2.835580481429978,5.7509999999999994,3.2173814404470806,NA,NA,0
+Aquatic macroinvertebrates,NA,Depredadores,9,-32.44866666666667,3.63342947502769,4.783444444444444,1.213209082465911,NA,NA,0
+Aquatic macroinvertebrates,NA,Detrit?voros,3,-32.87233333333333,2.8619735032549345,5.333333333333334,0.4480416647292228,NA,NA,0
+Aquatic macroinvertebrates,NA,Fish_stomach_content,7,-24.41485714285714,2.117549009946124,5.979285714285714,1.9737201519200327,NA,NA,0
+Aquatic macroinvertebrates,NA,Fitoplanct?fago-Detrit?voros,1,-34.618,NA,4.983,NA,NA,NA,0
+Aquatic macroinvertebrates,NA,Pol?fagos,1,-25.229,NA,6.401,NA,NA,NA,0
+Birds,Aquatic predator,Chloroceryle aenea,2,-35.063500000000005,0.7643824304626551,10.925999999999998,0.11596551211459358,2.3325,0.048790367901871745,2
+Birds,FrugiGranivore,Leptotila rufaxilla,2,-27.1325,0.8096372644585966,6.310499999999999,0.40658639918226497,0.1331,0.03761808075912434,2
+Birds,FrugiGranivore,Thraupis episcopus,2,-26.151,0.6901362184380697,8.586,0.48648946545634386,2.5685,2.448710783249014,2
+Birds,Invertivore,Dendrexetastes rufigula,1,-26.565,NA,7.088,NA,1.441,NA,1
+Birds,Invertivore,Dendrocolaptes picumnus,1,-26.446,NA,8.737,NA,0.6066,NA,1
+Birds,Invertivore,Dendrocyncla fuliginosa,1,-26.573,NA,8.506,NA,1.433,NA,1
+Birds,Invertivore,Elaenia sp.,1,-26.706,NA,8.287,NA,4.587,NA,1
+Birds,Invertivore,Pipra filicauda,1,-27.909,NA,7.575,NA,0.8113,NA,1
+Birds,Invertivore,Poecilotriccus latirostris,1,-26.618,NA,9.282,NA,NA,NA,0
+Birds,Invertivore,Tolmomyias sp.,1,-27.144,NA,8.456,NA,1.783,NA,1
+Birds,Invertivore,Tyrannus melancholicus,1,-25.66,NA,9.6,NA,1.019,NA,1
+Birds,Invertivore,Xiphorhynchus guttatus,1,-25.4,NA,9.1,NA,1.078,NA,1
+Birds,Nectarivore,Amazilia versicolor,3,-26.445333333333334,1.1773785853893104,9.350666666666667,0.637644362739399,1.06525,0.7223095769820583,2
+Birds,Nectarivore,Florisuga mellivora,1,-26.052,NA,11.393,NA,1.643,NA,1
+Birds,Nectarivore,Glaucis hirsutus,2,-28.362499999999997,0.08273149339882668,10.1645,0.28920667350529716,6.311,5.740292849672392,2
+Birds,Nectarivore,Phaethornis atrimentalis,1,-28.734,NA,10.027,NA,22.6,NA,1
+Birds,Nectarivore,Phaethornis bourcieri,1,-26.648,NA,8.566,NA,NA,NA,0
+Birds,Nectarivore,Phaethornis hispidus,2,-26.8965,2.1517259351506635,8.8115,0.1704127342659577,4.8187,5.5342419336346325,2
+Birds,Omnivore,Cacicus cela,2,-25.583,0.03535533905932788,7.515499999999999,0.12798632739476515,0.607325,0.40442972349964584,2
+Birds,Omnivore,Monasa nigrifrons,1,-26.95,NA,7.993,NA,0.934,NA,1
+Detritus,NA,Fish_stomach_content,66,-26.542439393939393,2.668369038764996,6.141469696969697,2.4103543385836734,NA,NA,0
+Fish,Carnivore-piscivore,Ageneiousus brevifilis,1,-30.32,NA,10.18,NA,0.260184,NA,1
+Fish,Carnivore-piscivore,Brachyplatystoma vaillantii,1,-31.6,NA,11.86,NA,NA,NA,0
+Fish,Carnivore-piscivore,Calophysus macropterus,2,-25.57,0.6646803743153531,10.865,0.07778174593051983,0.377254,NA,1
+Fish,Carnivore-piscivore,Electrophorus electricus,1,-34.9,NA,7.83,NA,0.371594,NA,1
+Fish,Carnivore-piscivore,Hemisorobium platyrhynchos,2,-30.740000000000002,1.3010764773832473,10.595,0.7566042558696061,0.350039,0.17274194400318643,2
+Fish,Carnivore-piscivore,Hoplias malabaricus,4,-32.0725,5.05828940123701,9.0075,0.9312491610734477,0.10358200000000001,0.06534787510954992,4
+Fish,Carnivore-piscivore,Plagioscion squamosissimus,1,-29.6,NA,12.79,NA,0.830528,NA,1
+Fish,Carnivore-piscivore,Potamotrygon constellata,1,-29.13,NA,8.45,NA,0.542002,NA,1
+Fish,Carnivore-piscivore,Potamotrygon motoro,1,-29.18,NA,11.26,NA,0.319568,NA,1
+Fish,Carnivore-piscivore,Prystobrycon calmoni,1,-32.52,NA,10.17,NA,0.3909,NA,1
+Fish,Carnivore-piscivore,Pseudoplatystoma fasciatum,1,-33.73,NA,9.77,NA,0.24705,NA,1
+Fish,Carnivore-piscivore,Raphiodon vulpinis,5,-31.756,2.208218739165121,10.47,0.9737556161583866,0.7531684,0.06016035668777238,5
+Fish,Carnivore-piscivore,Serrasalmus medinai,4,-34.7775,4.393687707002703,9.727500000000001,1.4967826606870258,0.195998,0.013730392274075787,4
+Fish,Carnivore-piscivore,Serrasalmus spiropleura,1,-23.69,NA,11.78,NA,0.4327,NA,1
+Fish,Carnivore-piscivore,Vandellia cirrhosa,1,-25.74,NA,14.17,NA,0.121792,NA,1
+Fish,Carnivore-piscivore,Zungaro zungaro,1,-28.8,NA,11.93,NA,NA,NA,0
+Fish,Invertivore,Aphyocharax alburnus,3,-26.603333333333335,2.3709140290894837,10.143333333333333,0.32868424564212606,0.119176,0.018672117073326208,3
+Fish,Invertivore,Apteronotus albifrons,1,-28.5,NA,8.21,NA,0.204474,NA,1
+Fish,Invertivore,Astyanacinus sp,1,-27.33,NA,9.57,NA,0.0357,NA,1
+Fish,Invertivore,Ceratobranchia binghami,1,-24.29,NA,9.11,NA,0.0239,NA,1
+Fish,Invertivore,Ceratobranchia elatior,2,-25.9,0.12727922061357835,9.370000000000001,0.05656854249492385,0.031,0.026587214972614185,2
+Fish,Invertivore,Characidium etheostoma,1,-28.91,NA,9.62,NA,0.158334,NA,1
+Fish,Invertivore,Charax sp,1,-28.33,NA,10.54,NA,0.46346,NA,1
+Fish,Invertivore,Cheirodontops sp,3,-30.89,4.434455998203161,8.893333333333333,0.2150193789716017,0.073744,0.0559688288960918,3
+Fish,Invertivore,Ctenobrycon hauxwellianus,1,-26.32,NA,8.25,NA,0.00953,NA,1
+Fish,Invertivore,Ctenobrycon spilurus,1,-29.57,NA,4.74,NA,0.0904,NA,1
+Fish,Invertivore,Eigenmannia trilineata,1,-28.66,NA,9.24,NA,0.0301,NA,1
+Fish,Invertivore,Gymnocoriumbus sp,1,-28.12,NA,8.25,NA,0.0477,NA,1
+Fish,Invertivore,Jupiaba anteroides,4,-28.42,1.3912823820729805,7.1475,0.7584358905009704,0.034375,0.008384261048734905,4
+Fish,Invertivore,Knodus moenkhausii,1,-24.99,NA,8.89,NA,0.0358,NA,1
+Fish,Invertivore,Knodus sp,1,-25.65,NA,8.09,NA,0.0211,NA,1
+Fish,Invertivore,Microcharacidium sp,2,-28.990000000000002,1.8809040379562165,7.645,0.7707463914933367,0.0474,0.022485995641732207,2
+Fish,Invertivore,Moenkhausia collettii,1,-27.26,NA,9.04,NA,0.03,NA,1
+Fish,Invertivore,Moenkhausia cotinho,1,-25.8,NA,10.53,NA,0.0562,NA,1
+Fish,Invertivore,Moenkhausia gr. lepidura,1,-25.08,NA,9.48,NA,0.11432,NA,1
+Fish,Invertivore,Moenkhausia oligolepis,2,-27.1,0.2545584412271567,10.059999999999999,0.16970562748477155,0.0702,0.007071067811865481,2
+Fish,Invertivore,Moenkhausia sp,1,-26.3,NA,8.3,NA,0.0188,NA,1
+Fish,Invertivore,Moenkhausia sp 3,1,-25.74,NA,8.4,NA,0.0294,NA,1
+Fish,Invertivore,Tatia intermedia,1,-28.71,NA,9.62,NA,0.0498,NA,1
+Fish,Invertivore,Tetragonopterus argenteus,2,-26.83,0.042426406871191945,8.485,0.06363961030678918,0.10594799999999999,0.07049571765717404,2
+Fish,Invertivore,Trachelyopterus galeatus,1,-28.29,NA,7.95,NA,0.0494,NA,1
+Fish,Omnivore,Astyanax fasciatus,1,-28.35,NA,5.4,NA,0.0648,NA,1
+Fish,Omnivore,Astyanax sp 2,1,-25.31,NA,9.45,NA,0.0645,NA,1
+Fish,Omnivore,Pimelodella aff. cristata,5,-27.354,1.8440390451397715,9.802,0.4438693501470899,0.16285840000000001,0.060362067814149635,5
+Fish,Omnivore,Pimelodella sp 1,4,-26.58,1.217346841838157,10.4275,0.7088664660333901,0.1688005,0.12869290367770866,4
+Fish,Omnivore,Pimelodus blochii,4,-27.65,0.6776921621700127,8.885,0.8274660113865705,0.1498475,0.0726987606565614,4
+Fish,Omnivore,Platydoras costatus,1,-26.65,NA,8.67,NA,0.0761,NA,1
+Fish,Primary Consumer,Aphanotorulus unicolor,3,-27.513333333333332,2.2881943390659227,7.3966666666666665,0.10503967504392486,0.053066666666666665,0.028194384783735454,3
+Fish,Primary Consumer,Liposarcus sp,1,-29.98,NA,7.02,NA,0.0165,NA,1
+Fish,Primary Consumer,Odontostilbe fugitiva,1,-29.88,NA,8.69,NA,0.0716,NA,1
+Fish,Primary Consumer,Panaque nigrolineatus,1,-28.65,NA,8.29,NA,0.00782,NA,1
+Fish,Primary Consumer,Parodon pongoensis,1,-30.12,NA,8.75,NA,0.0361,NA,1
+Fish,Primary Consumer,Piaractus brachypomus,1,-22.57,NA,6.2,NA,0.0386,NA,1
+Fish,Primary Consumer,Potmorhina latior,1,-35.29,NA,9.97,NA,0.0856,NA,1
+Fish,Primary Consumer,Prochilodus rubrotaeniatus,12,-32.81583333333333,3.3383895364336515,7.571666666666666,0.6163652006773749,0.07350966666666667,0.029540407910439416,12
+Fish,Primary Consumer,Serrapinnus sp,2,-30.37,1.7677669529663689,9.97,0.8343860018001259,0.088505,0.025321493834290273,2
+Fish,Primary Consumer,Steindachnerina argentea,1,-37.97,NA,9.34,NA,0.0156,NA,1
+Fish,Primary Consumer,Steindachnerina guentheri,2,-32.12,1.3152186130069754,7.915,0.007071067811865324,0.0315,0.01131370849898476,2
+Fish,Primary Consumer,Steindachnerina sp,1,-37.54,NA,8.64,NA,0.0959,NA,1
+Macrophytes,NA,Brazuelo vegetado (Pasto aleman),1,-13.404,NA,2.712,NA,NA,NA,0
+Macrophytes,NA,Ca?o pe?as blancas (Azolla),1,-31.825,NA,-0.263,NA,NA,NA,0
+Macrophytes,NA,Ca?o peterumbe (Pistia stratiotes),1,-30.58,NA,4.565,NA,NA,NA,0
+Macrophytes,NA,"Ca?o/lago Pto Pr?ncipe (zona macrofita c3, parecida a Azolla)",1,-28.543,NA,5.788,NA,NA,NA,0
+Macrophytes,NA,Desembocadura ca?o/lago pto pr?ncipe (Echinocloa cf colonum c4,1,-26.884,NA,2.744,NA,NA,NA,0
+Macrophytes,NA,Entrada a Pe?as Blancas,1,-12.377,NA,3.39,NA,NA,NA,0
+Macrophytes,NA,Humedal colegio la pradera (Ceratopteris pteroides),1,-28.109,NA,7.411,NA,NA,NA,0
+Macrophytes,NA,Humedal colegio la pradera (Lemna minor),1,-30.834,NA,10.307,NA,NA,NA,0
+Macrophytes,NA,Humedal colegio la pradera (Lemna),1,-30.212,NA,9.997,NA,NA,NA,0
+Macrophytes,NA,Humedal colegio la pradera NN1 (era como un cuerno de alce peque?o),1,-11.658,NA,7.898,NA,NA,NA,0
+Macrophytes,NA,Laguna Fidelicia (Eichornnia crassipes),1,-28.992,NA,4.369,NA,NA,NA,0
+Macrophytes,NA,Laguna Fidelicia (Pistia stratiotes),1,-29.039,NA,4.456,NA,NA,NA,0
+Macrophytes,NA,Laguna Fidelicia (cogida por don anoraldo) NN2,1,-28.291,NA,2.943,NA,NA,NA,0
+Macrophytes,NA,Laguna Fidelicia (como una lenteja grande y con pubescencia),1,-30.196,NA,3.182,NA,NA,NA,0
+Macrophytes,NA,Punto 1,11,-28.91809090909091,4.92479200483727,3.7484545454545453,2.254174543536341,NA,NA,0
+Macrophytes,NA,Punto 2,5,-28.7636,9.467893656986226,2.0618,3.036572525068354,NA,NA,0
+Macrophytes,NA,Punto 2 Laguna de la Cocha,1,-29.941,NA,5.008,NA,NA,NA,0
+Macrophytes,NA,Punto 2 Laguna peque?a,1,-29.733,NA,6.34,NA,NA,NA,0
+Macrophytes,NA,Punto 3,2,-30.2485,0.31466251762801384,4.383,0.8216580797387685,NA,NA,0
+Macrophytes,NA,R?o Orteguaza (Oriza),1,-26.466,NA,3.458,NA,NA,NA,0
+Macrophytes,NA,Tramo r?o Orteguaza (Pasto C4),1,-27.413,NA,3.641,NA,NA,NA,0

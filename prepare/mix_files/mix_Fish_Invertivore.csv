@@ -1,0 +1,37 @@
+ID,Municipality,Species,Group,Trophic_guild,Entity_key,d13C,d15N,THg
+M13-ISO-71,Curillo,Aphyocharax alburnus,Fish,Invertivore,Fish | Invertivore,-29.34,10.2,0.140382
+M17-ISO-85,San Antonio de Getucha,Aphyocharax alburnus,Fish,Invertivore,Fish | Invertivore,-25.3,9.79,0.111946
+M19-ISO-131,San Antonio de Getucha,Aphyocharax alburnus,Fish,Invertivore,Fish | Invertivore,-25.17,10.44,0.1052
+M21-ISO-10,San Antonio de Getucha,Apteronotus albifrons,Fish,Invertivore,Fish | Invertivore,-28.5,8.21,0.204474
+M1-ISO-133,Mecaya,Astyanacinus sp,Fish,Invertivore,Fish | Invertivore,-27.33,9.57,0.0357
+M17-ISO-88,San Antonio de Getucha,Ceratobranchia binghami,Fish,Invertivore,Fish | Invertivore,-24.29,9.11,0.0239
+M19-ISO-121,San Antonio de Getucha,Ceratobranchia elatior,Fish,Invertivore,Fish | Invertivore,-25.81,9.33,0.0498
+M19-ISO-132,San Antonio de Getucha,Ceratobranchia elatior,Fish,Invertivore,Fish | Invertivore,-25.99,9.41,0.0122
+M21-ISO-11,San Antonio de Getucha,Characidium etheostoma,Fish,Invertivore,Fish | Invertivore,-28.91,9.62,0.158334
+M25-ISO-146,San Antonio de Getucha,Charax sp,Fish,Invertivore,Fish | Invertivore,-28.33,10.54,0.46346
+M12-ISO-74,Curillo,Cheirodontops sp,Fish,Invertivore,Fish | Invertivore,-26.11,8.68,0.138332
+M5-ISO-103,Mecaya,Cheirodontops sp,Fish,Invertivore,Fish | Invertivore,-34.87,8.89,0.0434
+M17-ISO-87,San Antonio de Getucha,Cheirodontops sp,Fish,Invertivore,Fish | Invertivore,-31.69,9.11,0.0395
+M17-ISO-86,San Antonio de Getucha,Ctenobrycon hauxwellianus,Fish,Invertivore,Fish | Invertivore,-26.32,8.25,0.00953
+M16-ISO-62,Curillo,Ctenobrycon spilurus,Fish,Invertivore,Fish | Invertivore,-29.57,4.74,0.0904
+M13-ISO-70,Curillo,Eigenmannia trilineata,Fish,Invertivore,Fish | Invertivore,-28.66,9.24,0.0301
+M20-ISO-117,San Antonio de Getucha,Gymnocoriumbus sp,Fish,Invertivore,Fish | Invertivore,-28.12,8.25,0.0477
+M20-ISO-15,San Antonio de Getucha,Jupiaba anteroides,Fish,Invertivore,Fish | Invertivore,-26.34,8.17,0.0468
+M24-ISO-58,Mecaya,Jupiaba anteroides,Fish,Invertivore,Fish | Invertivore,-29.15,6.34,0.0312
+M20-ISO-16,San Antonio de Getucha,Jupiaba anteroides,Fish,Invertivore,Fish | Invertivore,-28.96,7.09,0.0311
+M20-ISO-14,San Antonio de Getucha,Jupiaba anteroides,Fish,Invertivore,Fish | Invertivore,-29.23,6.99,0.0284
+M13-ISO-65,Curillo,Knodus moenkhausii,Fish,Invertivore,Fish | Invertivore,-24.99,8.89,0.0358
+M13-ISO-69,Curillo,Knodus sp,Fish,Invertivore,Fish | Invertivore,-25.65,8.09,0.0211
+M13-ISO-63,Curillo,Microcharacidium sp,Fish,Invertivore,Fish | Invertivore,-27.66,7.1,0.0633
+M17-ISO-77,San Antonio de Getucha,Microcharacidium sp,Fish,Invertivore,Fish | Invertivore,-30.32,8.19,0.0315
+M1-ISO-110,Mecaya,Moenkhausia collettii,Fish,Invertivore,Fish | Invertivore,-27.26,9.04,0.03
+M20-ISO-115,San Antonio de Getucha,Moenkhausia cotinho,Fish,Invertivore,Fish | Invertivore,-25.8,10.53,0.0562
+M13-ISO-66,Curillo,Moenkhausia gr. lepidura,Fish,Invertivore,Fish | Invertivore,-25.08,9.48,0.11432
+M20-ISO-13,San Antonio de Getucha,Moenkhausia oligolepis,Fish,Invertivore,Fish | Invertivore,-27.28,10.18,0.0752
+M20-ISO-12,San Antonio de Getucha,Moenkhausia oligolepis,Fish,Invertivore,Fish | Invertivore,-26.92,9.94,0.0652
+M5-ISO-101,Mecaya,Moenkhausia sp,Fish,Invertivore,Fish | Invertivore,-26.3,8.3,0.0188
+M5-ISO-102,Mecaya,Moenkhausia sp 3,Fish,Invertivore,Fish | Invertivore,-25.74,8.4,0.0294
+M18-ISO-135,San Antonio de Getucha,Tatia intermedia,Fish,Invertivore,Fish | Invertivore,-28.71,9.62,0.0498
+M25-ISO-139,San Antonio de Getucha,Tetragonopterus argenteus,Fish,Invertivore,Fish | Invertivore,-26.86,8.44,0.155796
+M25-ISO-140,San Antonio de Getucha,Tetragonopterus argenteus,Fish,Invertivore,Fish | Invertivore,-26.8,8.53,0.0561
+M6-ISO-107,Mecaya,Trachelyopterus galeatus,Fish,Invertivore,Fish | Invertivore,-28.29,7.95,0.0494

@@ -1,0 +1,17 @@
+ID,Municipality,Species,Group,Trophic_guild,Entity_key,d13C,d15N,THg
+M16-ISO-60,Curillo,Astyanax fasciatus,Fish,Omnivore,Fish | Omnivore,-28.35,5.4,0.0648
+M19-ISO-129,San Antonio de Getucha,Astyanax sp 2,Fish,Omnivore,Fish | Omnivore,-25.31,9.45,0.0645
+M13-ISO-72,Curillo,Pimelodella aff. cristata,Fish,Omnivore,Fish | Omnivore,-25.31,9.72,0.231494
+M23-ISO-8,San Antonio de Getucha,Pimelodella aff. cristata,Fish,Omnivore,Fish | Omnivore,-30.22,9.65,0.217432
+M23-ISO-9,San Antonio de Getucha,Pimelodella aff. cristata,Fish,Omnivore,Fish | Omnivore,-26.88,9.48,0.148296
+M23-ISO-7,San Antonio de Getucha,Pimelodella aff. cristata,Fish,Omnivore,Fish | Omnivore,-27.86,9.58,0.12817
+M23-ISO-6,San Antonio de Getucha,Pimelodella aff. cristata,Fish,Omnivore,Fish | Omnivore,-26.5,10.58,0.0889
+M23-ISO-4,San Antonio de Getucha,Pimelodella sp 1,Fish,Omnivore,Fish | Omnivore,-26.23,10.34,0.328592
+M23-ISO-5,San Antonio de Getucha,Pimelodella sp 1,Fish,Omnivore,Fish | Omnivore,-28.1,9.7,0.172978
+M23-ISO-3,San Antonio de Getucha,Pimelodella sp 1,Fish,Omnivore,Fish | Omnivore,-26.81,10.27,0.159932
+M25-ISO-143,San Antonio de Getucha,Pimelodella sp 1,Fish,Omnivore,Fish | Omnivore,-25.18,11.4,0.0137
+M2-ISO-29,Mecaya,Pimelodus blochii,Fish,Omnivore,Fish | Omnivore,-26.75,9.49,0.25505
+M2-ISO-32,Mecaya,Pimelodus blochii,Fish,Omnivore,Fish | Omnivore,-27.98,9.67,0.134078
+M2-ISO-30,Mecaya,Pimelodus blochii,Fish,Omnivore,Fish | Omnivore,-27.55,8.42,0.121562
+M11-ISO-46,Mecaya,Pimelodus blochii,Fish,Omnivore,Fish | Omnivore,-28.32,7.96,0.0887
+M6-ISO-106,Mecaya,Platydoras costatus,Fish,Omnivore,Fish | Omnivore,-26.65,8.67,0.0761

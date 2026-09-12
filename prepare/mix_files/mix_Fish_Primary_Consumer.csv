@@ -1,0 +1,28 @@
+ID,Municipality,Species,Group,Trophic_guild,Entity_key,d13C,d15N,THg
+M25-ISO-147,San Antonio de Getucha,Aphanotorulus unicolor,Fish,Primary Consumer,Fish | Primary Consumer,-25.38,7.4,0.0839
+M10-ISO-19,Mecaya,Aphanotorulus unicolor,Fish,Primary Consumer,Fish | Primary Consumer,-29.93,7.5,0.0467
+M17-ISO-76,San Antonio de Getucha,Aphanotorulus unicolor,Fish,Primary Consumer,Fish | Primary Consumer,-27.23,7.29,0.0286
+M15-ISO-41,Curillo,Liposarcus sp,Fish,Primary Consumer,Fish | Primary Consumer,-29.98,7.02,0.0165
+M20-ISO-116,San Antonio de Getucha,Odontostilbe fugitiva,Fish,Primary Consumer,Fish | Primary Consumer,-29.88,8.69,0.0716
+M3-ISO-26,Mecaya,Panaque nigrolineatus,Fish,Primary Consumer,Fish | Primary Consumer,-28.65,8.29,0.00782
+M17-ISO-81,San Antonio de Getucha,Parodon pongoensis,Fish,Primary Consumer,Fish | Primary Consumer,-30.12,8.75,0.0361
+M3-ISO-27,Mecaya,Piaractus brachypomus,Fish,Primary Consumer,Fish | Primary Consumer,-22.57,6.2,0.0386
+M14-ISO-49,Curillo,Potmorhina latior,Fish,Primary Consumer,Fish | Primary Consumer,-35.29,9.97,0.0856
+M14-ISO-54,Curillo,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-32.77,8.25,0.114446
+M15-ISO-37,Curillo,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-35.16,7.2,0.10942
+M11-ISO-48,Mecaya,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-35.16,6.98,0.10925
+M15-ISO-35,Curillo,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-31.64,7.91,0.0957
+M14-ISO-55,Curillo,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-34.62,7.73,0.0749
+M11-ISO-47,Mecaya,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-36.66,6.52,0.0701
+M15-ISO-38,Curillo,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-32.29,7.31,0.0693
+M25-ISO-144,San Antonio de Getucha,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-25.56,7.97,0.0638
+M10-ISO-20,Mecaya,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-27.12,8.42,0.0628
+M15-ISO-36,Curillo,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-34.82,8.2,0.0547
+M15-ISO-39,Curillo,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-34.1,6.77,0.0407
+M25-ISO-145,San Antonio de Getucha,Prochilodus rubrotaeniatus,Fish,Primary Consumer,Fish | Primary Consumer,-33.89,7.6,0.017
+M19-ISO-130,San Antonio de Getucha,Serrapinnus sp,Fish,Primary Consumer,Fish | Primary Consumer,-29.12,10.56,0.10641
+M12-ISO-75,Curillo,Serrapinnus sp,Fish,Primary Consumer,Fish | Primary Consumer,-31.62,9.38,0.0706
+M20-ISO-118,San Antonio de Getucha,Steindachnerina argentea,Fish,Primary Consumer,Fish | Primary Consumer,-37.97,9.34,0.0156
+M17-ISO-78,San Antonio de Getucha,Steindachnerina guentheri,Fish,Primary Consumer,Fish | Primary Consumer,-31.19,7.91,0.0395
+M17-ISO-79,San Antonio de Getucha,Steindachnerina guentheri,Fish,Primary Consumer,Fish | Primary Consumer,-33.05,7.92,0.0235
+M15-ISO-43,Curillo,Steindachnerina sp,Fish,Primary Consumer,Fish | Primary Consumer,-37.54,8.64,0.0959

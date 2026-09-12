@@ -1,0 +1,10 @@
+Model,Mode,Seed,Status,Reason
+Fish_Primary_Consumer,prepare,20260912,Prepared,NA
+Fish_Invertivore,prepare,20260913,Prepared,NA
+Fish_Omnivore,prepare,20260914,Prepared,NA
+Fish_Carnivore_piscivore,prepare,20260915,Prepared,NA
+Birds_Invertivore,prepare,20260916,Prepared,NA
+Birds_Omnivore,prepare,20260917,Prepared,NA
+Birds_FrugiGranivore,prepare,20260918,Prepared,NA
+Birds_Nectarivore,prepare,20260919,Prepared,NA
+Birds_Aquatic_predator,prepare,20260920,Prepared,NA
