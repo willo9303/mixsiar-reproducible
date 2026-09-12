@@ -1,0 +1,36 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed 
+2: Setting LC_CTYPE=C.UTF-8 failed 
+3: Setting LC_MONETARY=C.UTF-8 failed 
+4: Setting LC_TIME=C.UTF-8 failed 
+                                             file identical
+        all_parameters_Birds_Aquatic_predator.csv      TRUE
+          all_parameters_Birds_FrugiGranivore.csv      TRUE
+             all_parameters_Birds_Invertivore.csv      TRUE
+             all_parameters_Birds_Nectarivore.csv      TRUE
+                all_parameters_Birds_Omnivore.csv      TRUE
+      all_parameters_Fish_Carnivore_piscivore.csv      TRUE
+              all_parameters_Fish_Invertivore.csv      TRUE
+                 all_parameters_Fish_Omnivore.csv      TRUE
+         all_parameters_Fish_Primary_Consumer.csv      TRUE
+           diagnostics_Birds_Aquatic_predator.csv      TRUE
+             diagnostics_Birds_FrugiGranivore.csv      TRUE
+                diagnostics_Birds_Invertivore.csv      TRUE
+                diagnostics_Birds_Nectarivore.csv      TRUE
+                   diagnostics_Birds_Omnivore.csv      TRUE
+         diagnostics_Fish_Carnivore_piscivore.csv      TRUE
+                 diagnostics_Fish_Invertivore.csv      TRUE
+                    diagnostics_Fish_Omnivore.csv      TRUE
+            diagnostics_Fish_Primary_Consumer.csv      TRUE
+                     species_isotopes_mercury.csv      TRUE
+                    species_summary_formatted.csv      TRUE
+   summary_proportions_Birds_Aquatic_predator.csv      TRUE
+     summary_proportions_Birds_FrugiGranivore.csv      TRUE
+        summary_proportions_Birds_Invertivore.csv      TRUE
+        summary_proportions_Birds_Nectarivore.csv      TRUE
+           summary_proportions_Birds_Omnivore.csv      TRUE
+ summary_proportions_Fish_Carnivore_piscivore.csv      TRUE
+         summary_proportions_Fish_Invertivore.csv      TRUE
+            summary_proportions_Fish_Omnivore.csv      TRUE
+    summary_proportions_Fish_Primary_Consumer.csv      TRUE
+PASS: all summary and diagnostic tables are identical.

@@ -1,0 +1,385 @@
+Code,Municipality,Species,Trophic guild,Group,THg,NT,d15N,CT,d13C
+NA,Mecaya,NA,NA,Detritus,NA,14.717.913,2.311,135.310.817,-31.343
+NA,Mecaya,NA,NA,Detritus,NA,0.6746363,1.06,135.740.797,-30.034
+NA,Mecaya,NA,NA,Detritus,NA,0.8486581,0.867,115.829.619,-30.917
+NA,Mecaya,NA,NA,Detritus,NA,0.5377713,2.218,84.219.941,-30.552
+NA,Mecaya,NA,NA,Detritus,NA,12.619.058,-0.071,149.530.792,-30.754
+NA,Mecaya,NA,NA,Detritus,NA,1.777.753,0.787,8.916.534,-31.816
+NA,Curillo,NA,NA,Detritus,NA,16.174.988,2.824,14.585.885,-30.587
+NA,Curillo,NA,NA,Detritus,NA,12.107.621,0.136,98.150.484,-30.881
+NA,Curillo,NA,NA,Detritus,NA,0.5892765,1.284,105.441.107,-24.544
+NA,Curillo,NA,NA,Detritus,NA,0.5962591,4.803,61.119.711,-28.336
+NA,Curillo,NA,NA,Detritus,NA,0.9615683,1.224,136.324.477,-28.076
+NA,Curillo,NA,NA,Detritus,NA,0.4406648,0.154,75.133.836,-30.918
+NA,Curillo,NA,NA,Detritus,NA,0.6233545,0.308,113.003.017,-31.279
+NA,Curillo,NA,NA,Detritus,NA,25.785.954,3.325,120.229.818,-30.728
+BD190,Mecaya,Fish_stomach_content,NA,Detritus,NA,56.169.372,6.23,284.508.036,-23.08
+BD191,Mecaya,Fish_stomach_content,NA,Detritus,NA,13.145.963,4.69,288.955.124,-26.464
+BD19,Mecaya,Fish_stomach_content,NA,Detritus,NA,12.275.912,3.752,530.421.357,-28.019
+BD81,Mecaya,Fish_stomach_content,NA,Detritus,NA,2.918.889,7.87,479.215.913,-31.551
+BD30,Mecaya,Fish_stomach_content,NA,Detritus,NA,10.605.532,4.987,309.570.829,-33.942
+BD87,Curillo,Fish_stomach_content,NA,Detritus,NA,26.568.309,6.112,354.685.701,-23.036
+BD174,Curillo,Fish_stomach_content,NA,Detritus,NA,22.788.853,4.495,330.363.558,-28.711
+BD175,Curillo,Fish_stomach_content,NA,Detritus,NA,23.863.085,4.844,299.206.478,-29.761
+BD177,Curillo,Fish_stomach_content,NA,Detritus,NA,18.306.374,5.513,280.134.363,-24.768
+BD86,Curillo,Fish_stomach_content,NA,Detritus,NA,25.897.074,7.228,355.797.144,-25.969
+BD100,Curillo,Fish_stomach_content,NA,Detritus,NA,2.156.758,6.198,341.450.564,-24.718
+BD188,Curillo,Fish_stomach_content,NA,Detritus,NA,12.123.819,2.97,250.209.429,-25.912
+BD189,Curillo,Fish_stomach_content,NA,Detritus,NA,0.9105247,3.909,309.833.775,-25.632
+BD196,Curillo,Fish_stomach_content,NA,Detritus,NA,10.642.514,3.517,220.768.782,-24.197
+BD23,Curillo,Fish_stomach_content,NA,Detritus,NA,110.178.009,6.838,382.249.601,-31.843
+BD24,Curillo,Fish_stomach_content,NA,Detritus,NA,27.451.509,7.388,385.237.155,-32.545
+BD16,Curillo,Fish_stomach_content,NA,Detritus,NA,46.805.807,5.4,20.359.772,-33.898
+BD17,Curillo,Fish_stomach_content,NA,Detritus,NA,30.232.285,5.067,171.708.786,-33.993
+BD46,Curillo,Fish_stomach_content,NA,Detritus,NA,62.413.515,6.504,40.794.093,-32.873
+BD78,Curillo,Fish_stomach_content,NA,Detritus,NA,24.360.289,8.385,264.368.387,-28.218
+BD80,Curillo,Fish_stomach_content,NA,Detritus,NA,31.137.886,7.39,277.569.744,-28.421
+BD122,Curillo,Fish_stomach_content,NA,Detritus,NA,23.340.768,2.714,391.415.092,-26.189
+BD124,Curillo,Fish_stomach_content,NA,Detritus,NA,16.119.489,4.173,333.578.631,-26.325
+BD179,Curillo,Fish_stomach_content,NA,Detritus,NA,15.611.099,5.705,189.280.191,-25.168
+BD110,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,4.168.082,6.627,312.702.849,-27.836
+BD111,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,34.522.599,6.07,443.638.598,-25.026
+BD125,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.4477548,4.025,190.629.537,-25.457
+BD135,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.8660335,6.585,2.266.693,-25.572
+BD137,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,12.993.827,8.72,265.331.343,-24.688
+BD139,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,12.809.778,4.059,219.653.183,-25.468
+BD141,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.7722334,5.347,416.310.076,-24.801
+BD146,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,11.648.039,3.403,290.119.217,-24.5
+BD152,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,18.575.748,5.008,240.240.244,-26.2
+BD153,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,12.273.473,3.583,245.477.205,-25.739
+BD154,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,14.067.438,4.278,249.018.591,-25.973
+BD182,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.8322674,9.962,290.388.874,-24.536
+BD187,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.8429265,4.417,281.766.913,-23.764
+BD138,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,13.987.942,9.868,255.939.136,-25.757
+BD138,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,14.286.996,11.434,418.847.529,-25.561
+BD155,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.6936391,3.463,246.632.208,-24.881
+BD206,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.5250662,12.988,244.968.106,-25.786
+BD208,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.367129,4.826,172.157.237,-24.72
+BD210,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.7024086,5.408,419.629.254,-24.127
+BD211,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.5716277,4.531,389.784.115,-23.921
+BD50,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.7016171,1.658,230.875.003,-25.641
+BD61,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.9595823,8.294,271.433.107,-24.304
+BD126,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,26.446.722,12.266,304.489.116,-24.634
+BD164,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,1.384.613,5.83,18.482.278,-28.682
+BD165,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,14.058.781,5.524,146.210.578,-29.518
+BD193,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.692544,4.429,163.409.036,-26.349
+BD113,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,1.449.814,6.882,38.373.425,-24.311
+BD113,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,15.178.019,10.021,330.850.331,-25.076
+BD218,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,17.483.146,8.935,245.219.839,-26.15
+BD65,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,18.275.643,5.498,301.721.397,-25.412
+BD57,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,14.574.084,4.75,335.086.134,-24.876
+BD73,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,0.9674696,3.76,411.884.112,-24.668
+BD166,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,26.999.008,5.405,229.842.768,-26.238
+BD167,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,25.871.203,9.486,436.482.389,-25.586
+BD199,San Antonio de Getuchá,Fish_stomach_content,NA,Detritus,NA,3.607.797,7.943,462.093.225,-26.632
+BD45,Mecaya,Fish_stomach_content,NA,Detritus,NA,114.080.388,5.085,211.067.311,-29.57
+BD82,Mecaya,Fish_stomach_content,NA,Detritus,NA,16.908.525,9.874,320.374.973,-25.564
+BD148,Mecaya,Fish_stomach_content,NA,Detritus,NA,19.636.541,6.462,340.046.856,-26.091
+BD149,Mecaya,Fish_stomach_content,NA,Detritus,NA,17.732.664,6.929,201.719.017,-24.93
+BD178,Mecaya,Fish_stomach_content,NA,Detritus,NA,121.424,4.119,258.383.266,-25.126
+BD192,Mecaya,Fish_stomach_content,NA,Detritus,NA,0.7941336,11.001,104.153.469,-26.82
+BD32,Mecaya,Fish_stomach_content,NA,Detritus,NA,101.832.655,4.705,379.411.358,-26.077
+F1,Mecaya,NA,NA,Phytoplankton,NA,10.289.696,2.532,85.314.653,-32.32
+F2,Mecaya,NA,NA,Phytoplankton,NA,2.043.412,2.313,126.340.709,-35.944
+F3,Curillo,NA,NA,Phytoplankton,NA,18.421.566,3.424,139.584.288,-35.565
+BD31,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,14.244.496,5.756,355.055.847,-24.845
+BD63,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,33.501.841,2.926,385.801.353,-26.029
+BD64,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,19.132.209,2.699,380.507.357,-27.16
+BD88,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,35.821.528,6.482,379.273.237,-25.016
+BD89,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,35.288.749,6.251,441.801.716,-25.024
+BD108,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,36.704.546,8.381,304.955.654,-24.501
+BD131,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,26.230.805,3.227,334.446.446,-23.645
+BD132,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,0.7419989,4.996,141.772.487,-25.673
+BD140,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,10.531.843,4.822,331.344.936,-24.335
+BD195,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,11.404.403,1.782,206.894.546,-25.699
+BD115,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,35.582.502,3.152,471.346.127,-25.837
+BD121,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,23.479.171,2.139,464.111.605,-26.777
+BD123,Curillo,Fish_stomach_content,NA,Allochthonous insects,NA,24.647.461,1.45,283.709.685,-26.55
+BD127,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,10.734.203,4.856,255.605.066,-25.739
+BD142,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,0.8428133,3.592,299.616.938,-24.416
+BD143,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,26.692.009,5.29,246.853.437,-25.108
+BD145,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,0.9495155,3.9,265.776.005,-25.528
+BD147,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,11.802.291,3.66,362.793.009,-25.644
+BD151,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,14.521.664,6.057,261.675.102,-25.529
+BD156,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,0.875604,3.922,203.611.889,-24.855
+BD202,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,24.041.519,3.144,362.621.732,-25.691
+BD204,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,16.808.434,3.133,232.697.762,-25.753
+BD205,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,0.7462357,11.973,198.214.974,-25.608
+BD209,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,0.9249106,4.118,265.499.397,-24.473
+BD2,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,109.211.114,0.231,428.533.562,-30.972
+BD9,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,83.754.937,5.018,365.845.357,-28.17
+BD59,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,29.389.471,0.528,335.370.338,-28.048
+BD51,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,20.356.092,3.376,493.387.055,-24.704
+BD70,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,76.561.635,4.787,46.704.513,-25.618
+BD75,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,16.975.293,3.978,425.965.323,-24.768
+BD130,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,50.122.917,6.285,644.983.273,-24.654
+BD180,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,13.468.381,5.914,314.699.371,-24.386
+BD67,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,40.797.745,5.128,335.661.271,-26.051
+BD69,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,120.485.153,5.239,46.473.474,-27.138
+BD159,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,44.329.485,10.142,293.216.091,-26.016
+BD161,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,71.157.672,3.464,449.784.149,-28.1
+BD169,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,24.225.489,6.698,329.954.572,-25.223
+BD170,San Antonio de Getuchá,Fish_stomach_content,NA,Allochthonous insects,NA,11.402.834,1.308,306.772.435,-24.489
+BD84,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,0.86787,8.474,501.319.324,-24.392
+BD99,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,2.413.004,11.055,478.886.545,-23.592
+BD176,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,4.061.871,2.271,297.105.906,-26.717
+BD95,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,16.167.849,7.009,456.512.032,-23.665
+BD181,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,51.374.373,4.245,534.870.909,-22.245
+BD184,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,13.987.021,5.205,304.765.106,-24.074
+BD185,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,23.091.948,2.847,326.378.691,-20.455
+BD194,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,36.900.039,4.517,333.740.011,-21.417
+BD91,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,108.698.888,5.198,421.557.363,-28.114
+BD92,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,38.639.822,5.274,398.817.651,-24.654
+BD93,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,84.327.592,2.404,460.143.429,-27.268
+BD94,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,52.316.111,4.811,325.674.773,-27.9
+BD96,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,85.668.186,6.389,47.740.917,-26.108
+BD77,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,22.791.241,5.32,418.952.943,-24.138
+BD37,Mecaya,Fish_stomach_content,NA,Allochthonous insects,NA,20.473.373,1.987,324.431.919,-24.786
+Mf01-ISO,Mecaya,Brazuelo vegetado (Pasto aleman),NA,Macrophytes,NA,16.043.175,2.712,216.187.762,-13.404
+Mf02- ISO,Mecaya,Entrada a Pe?as Blancas,NA,Macrophytes,NA,22.705.446,3.39,253.259.416,-12.377
+Mf03-ISO,Mecaya,"Ca?o/lago Pto Pr?ncipe (zona macrofita c3, parecida a Azolla)",NA,Macrophytes,NA,21.242.719,5.788,200.944.675,-28.543
+Mf04-ISO,Mecaya,Desembocadura ca?o/lago pto pr?ncipe (Echinocloa cf colonum c4,NA,Macrophytes,NA,0.4277628,2.744,232.435.818,-26.884
+Mf05-ISO,Mecaya,Ca?o pe?as blancas (Azolla),NA,Macrophytes,NA,27.398.149,-0.263,202.059.138,-31.825
+Mf06-ISO,Mecaya,Ca?o peterumbe (Pistia stratiotes),NA,Macrophytes,NA,20.300.879,4.565,19.088.797,-30.58
+Mf07-ISO,Curillo,Laguna Fidelicia (Pistia stratiotes),NA,Macrophytes,NA,26.755.401,4.456,220.711.635,-29.039
+Mf08-ISO,Curillo,Laguna Fidelicia (cogida por don anoraldo) NN2,NA,Macrophytes,NA,15.166.855,2.943,199.877.956,-28.291
+Mf09-ISO,Curillo,Humedal colegio la pradera NN1 (era como un cuerno de alce peque?o),NA,Macrophytes,NA,26.130.292,7.898,245.580.976,-11.658
+Mf10-ISO,Curillo,Humedal colegio la pradera (Ceratopteris pteroides),NA,Macrophytes,NA,48.937.001,7.411,182.462.102,-28.109
+Mf11-ISO,Curillo,Humedal colegio la pradera (Lemna minor),NA,Macrophytes,NA,18.908.765,10.307,204.188.249,-30.834
+Mf12-ISO,Curillo,Humedal colegio la pradera (Lemna),NA,Macrophytes,NA,22.505.072,9.997,224.824.455,-30.212
+Mf13-ISO,Curillo,Laguna Fidelicia (Eichornnia crassipes),NA,Macrophytes,NA,15.646.704,4.369,243.447.324,-28.992
+Mf14- ISO,San Antonio de Getuchá,R?o Orteguaza (Oriza),NA,Macrophytes,NA,0.5725518,3.458,214.601.702,-26.466
+Mf15-ISO,San Antonio de Getuchá,Tramo r?o Orteguaza (Pasto C4),NA,Macrophytes,NA,33.787.568,3.641,237.465.706,-27.413
+Mf16-ISO,Curillo,Laguna Fidelicia (como una lenteja grande y con pubescencia),NA,Macrophytes,NA,19.618.938,3.182,215.777.388,-30.196
+MF17-ISO,Mecaya,Punto 1,NA,Macrophytes,NA,22.300.842,5.337,211.646.832,-29.5
+MF18-ISO,Mecaya,Punto 2,NA,Macrophytes,NA,27.153.366,2.895,247.478.435,-31.186
+MF19-ISO,Mecaya,Punto 1,NA,Macrophytes,NA,0.9084909,3.611,19.449.883,-28.339
+MF20-ISO,Mecaya,Punto 1,NA,Macrophytes,NA,18.419.543,0.403,218.593.283,-33.136
+MF21-ISO,Mecaya,Punto 1,NA,Macrophytes,NA,35.764.976,3.956,242.413.742,-32.934
+MF22-ISO,Mecaya,Punto 1,NA,Macrophytes,NA,21.960.656,-1.079,220.998.447,-34.926
+MF23-ISO,Mecaya,Punto 2,NA,Macrophytes,NA,14.492.943,2.379,211.852.921,-30.75
+MF24-ISO,Mecaya,Punto 3,NA,Macrophytes,NA,36.511.885,4.964,232.385.165,-30.026
+MF26-ISO,Mecaya,Punto 2,NA,Macrophytes,NA,13.903.983,-1.456,210.933.931,-34.968
+MF27-ISO,Mecaya,Punto 2,NA,Macrophytes,NA,17.197.848,0.012,1.995.631,-34.725
+MF28-ISO,Mecaya,Punto 3,NA,Macrophytes,NA,21.923.093,3.802,197.401.813,-30.471
+MF29-ISO,Curillo,Punto 1,NA,Macrophytes,NA,0.9769227,6.473,229.498.866,-28.448
+MF30-ISO,Curillo,Punto 1,NA,Macrophytes,NA,19.119.071,5.697,199.785.804,-29.54
+MF31-ISO,Curillo,Punto 1,NA,Macrophytes,NA,24.465.346,5.259,241.944.327,-16.121
+MF32-ISO,Curillo,Punto 2 Laguna peque?a,NA,Macrophytes,NA,22.178.504,6.34,220.149.875,-29.733
+MF33-ISO,Curillo,Punto 1,NA,Macrophytes,NA,25.679.883,4.044,240.565.376,-27.699
+MF34-ISO,Curillo,Punto 1,NA,Macrophytes,NA,13.969.741,3.5,210.868.556,-30.448
+MF35-ISO,Curillo,Punto 2,NA,Macrophytes,NA,18.194.006,6.479,225.925.873,-12.189
+MF36-ISO,Curillo,Punto 2 Laguna de la Cocha,NA,Macrophytes,NA,14.152.916,5.008,227.316.604,-29.941
+MF37-ISO,Curillo,Punto 1,NA,Macrophytes,NA,29.711.412,4.032,202.714.164,-27.008
+BD119,Curillo,Fish_stomach_content,NA,Aquatic macroinvertebrates,NA,17.859.555,3.368,309.116.479,-24.86
+BD11,Mecaya,Fish_stomach_content,NA,Aquatic macroinvertebrates,NA,32.297.319,5.658,217.668.804,-24.506
+BD12,Mecaya,Fish_stomach_content,NA,Aquatic macroinvertebrates,NA,73.242.951,7.672,13.069.966,-20.755
+BD222,San Antonio de Getuchá,Fish_stomach_content,NA,Aquatic macroinvertebrates,NA,40.748.823,7.765,284.336.171,-25.333
+BD98,Mecaya,Fish_stomach_content,NA,Aquatic macroinvertebrates,NA,45.175.711,8.081,314.312.616,-23.583
+BD6,Mecaya,Fish_stomach_content,NA,Aquatic macroinvertebrates,NA,12.798.112,5.768,207.305.732,-24.042
+BD35,Mecaya,Fish_stomach_content,NA,Aquatic macroinvertebrates,NA,0.9201917,3.543,380.537.518,-27.825
+Macr01-ISO (1),Mecaya,Depredadores,NA,Aquatic macroinvertebrates,NA,74.396.553,3.611,422.513.848,-32.648
+"Macr01-ISO (2,3,4,6,9)",Mecaya,Detrit?voros,NA,Aquatic macroinvertebrates,NA,121.677.145,5.264,411.598.974,-33.221
+Macr02-ISO,Mecaya,Depredadores,NA,Aquatic macroinvertebrates,NA,114.197.079,2.561,436.604.788,-31.131
+"Macr03-ISO (1,4,2)",Mecaya,Detrit?voros,NA,Aquatic macroinvertebrates,NA,111.594.625,4.924,4.199.325,-35.544
+Macr03-ISO (6),Curillo,Depredadores,NA,Aquatic macroinvertebrates,NA,11.392.771,5.826,433.245.164,-38.882
+Macr05-ISO - Macr020-Hg,Curillo,Depredadores,NA,Aquatic macroinvertebrates,NA,69.981.436,5.938,316.237.739,-30.352
+Macr07-ISO,Curillo,Depredadores,NA,Aquatic macroinvertebrates,NA,109.947.746,5.533,421.864.898,-37.074
+"Macr12-ISO (1,7,19)",Curillo,Fitoplanct?fago-Detrit?voros,NA,Aquatic macroinvertebrates,NA,101.704.642,4.983,383.650.808,-34.618
+"Macr12-ISO (8,16,21,...)",Curillo,Depredadores,NA,Aquatic macroinvertebrates,NA,98.967.585,6.1,412.034.728,-31.275
+Macr14-ISO,Curillo,Pol?fagos,NA,Aquatic macroinvertebrates,NA,68.919.586,6.401,295.996.449,-25.229
+Macr16-ISO,Curillo,Depredadores,NA,Aquatic macroinvertebrates,NA,118.190.513,4.051,435.487.838,-29.014
+Macr015-Hg,Curillo,Depredadores,NA,Aquatic macroinvertebrates,NA,78.944.679,4.399,329.583.292,-27.81
+"Macr019-Hg (202,199,...)",Curillo,Depredadores,NA,Aquatic macroinvertebrates,NA,12.382.976,5.032,401.870.927,-33.852
+"Macr019-Hg (197,198,...)",Mecaya,Detrit?voros,NA,Aquatic macroinvertebrates,NA,61.642.257,5.812,287.230.403,-29.852
+NA,Mecaya,NA,NA,Aquatic macroinvertebrates,NA,24.530.846,3.733,167.108.467,-26.465
+NA,Mecaya,NA,NA,Aquatic macroinvertebrates,NA,109.715.624,2.572,443.785.051,-37.811
+NA,Mecaya,NA,NA,Aquatic macroinvertebrates,NA,104.954.209,6.772,415.378.918,-30.548
+NA,Mecaya,NA,NA,Aquatic macroinvertebrates,NA,116.486.494,3.667,403.657.132,-33.526
+NA,Mecaya,NA,NA,Aquatic macroinvertebrates,NA,109.225.982,3.827,484.305.708,-34.604
+NA,Curillo,NA,NA,Aquatic macroinvertebrates,NA,114.344.838,3.29,471.948.853,-34.511
+NA,Curillo,NA,NA,Aquatic macroinvertebrates,NA,17.746.686,7.522,132.380.983,-13.89
+NA,Curillo,NA,NA,Aquatic macroinvertebrates,NA,124.671.375,6.498,423.427.465,-30.4
+NA,Curillo,NA,NA,Aquatic macroinvertebrates,NA,108.242.896,2.196,480.942.203,-36.171
+NA,Curillo,NA,NA,Aquatic macroinvertebrates,NA,123.200.917,11.209,414.122.077,-30.042
+NA,Curillo,NA,NA,Aquatic macroinvertebrates,NA,116.236.126,1.395,463.643.641,-38.171
+NA,Curillo,NA,NA,Aquatic macroinvertebrates,NA,11.046.542,4.821,456.684.453,-31.358
+NA,Curillo,NA,NA,Aquatic macroinvertebrates,NA,109.368.665,5.346,440.014.346,-32.892
+NA,Mecaya,NA,NA,Aquatic macroinvertebrates,NA,109.597.752,4.836,431.459.397,-34.058
+NA,Mecaya,NA,NA,Aquatic macroinvertebrates,NA,12.904.368,8.062,429.693.548,-28.313
+NA,Mecaya,NA,NA,Aquatic macroinvertebrates,NA,119.146.251,11.623,434.874.848,-30.542
+M11-ISO-18,Mecaya,Ageneiousus brevifilis,Carnivore-piscivore,Fishes,0.260184,14.5,10.18,42.36,-30.32
+M25-ISO-147,San Antonio de Getucha,Aphanotorulus unicolor,Primary Consumer,Fishes,8.39E-02,13.57,7.4,43.12,-25.38
+M10-ISO-19,Mecaya,Aphanotorulus unicolor,Primary Consumer,Fishes,4.67E-02,14.45,7.5,40.21,-29.93
+M17-ISO-76,San Antonio de Getucha,Aphanotorulus unicolor,Primary Consumer,Fishes,2.86E-02,11.85,7.29,45.56,-27.23
+M13-ISO-71,Curillo,Aphyocharax alburnus,Invertivore,Fishes,0.140382,12.25,10.2,46.18,-29.34
+M17-ISO-85,San Antonio de Getucha,Aphyocharax alburnus,Invertivore,Fishes,0.111946,13.15,9.79,44.33,-25.3
+M19-ISO-131,San Antonio de Getucha,Aphyocharax alburnus,Invertivore,Fishes,0.1052,13.32,10.44,45.74,-25.17
+M21-ISO-10,San Antonio de Getucha,Apteronotus albifrons,Invertivore,Fishes,0.204474,14.2,8.21,43.64,-28.5
+M1-ISO-133,Mecaya,Astyanacinus sp,Invertivore,Fishes,3.57E-02,12.92,9.57,44.23,-27.33
+M16-ISO-60,Curillo,Astyanax fasciatus,Omnivore,Fishes,6.48E-02,15.06,5.4,44.58,-28.35
+M19-ISO-129,San Antonio de Getucha,Astyanax sp 2,Omnivore,Fishes,6.45E-02,14.39,9.45,43.75,-25.31
+M22-ISO-1,Mecaya,Brachyplatystoma vaillantii,Carnivore-piscivore,Fishes,2.278.844,9.19,11.86,49.74,-31.6
+M3-ISO-28,Mecaya,Calophysus macropterus,Carnivore-piscivore,Fishes,1.138.424,12,10.81,42.63,-25.1
+M25-ISO-142,San Antonio de Getucha,Calophysus macropterus,Carnivore-piscivore,Fishes,0.377254,14.28,10.92,40.56,-26.04
+M17-ISO-88,San Antonio de Getucha,Ceratobranchia binghami,Invertivore,Fishes,2.39E-02,12.76,9.11,44.56,-24.29
+M19-ISO-121,San Antonio de Getucha,Ceratobranchia elatior,Invertivore,Fishes,4.98E-02,12.1,9.33,45.95,-25.81
+M19-ISO-132,San Antonio de Getucha,Ceratobranchia elatior,Invertivore,Fishes,1.22E-02,13.55,9.41,43.61,-25.99
+M21-ISO-11,San Antonio de Getucha,Characidium etheostoma,Invertivore,Fishes,0.158334,14.32,9.62,41.86,-28.91
+M25-ISO-146,San Antonio de Getucha,Charax sp,Invertivore,Fishes,0.46346,13.49,10.54,42.76,-28.33
+M12-ISO-74,Curillo,Cheirodontops sp,Invertivore,Fishes,0.138332,12.86,8.68,44.37,-26.11
+M5-ISO-103,Mecaya,Cheirodontops sp,Invertivore,Fishes,4.34E-02,13.46,8.89,45.61,-34.87
+M17-ISO-87,San Antonio de Getucha,Cheirodontops sp,Invertivore,Fishes,3.95E-02,12.71,9.11,45.57,-31.69
+M17-ISO-86,San Antonio de Getucha,Ctenobrycon hauxwellianus,Invertivore,Fishes,9.53E-03,12.67,8.25,44.76,-26.32
+M16-ISO-62,Curillo,Ctenobrycon spilurus,Invertivore,Fishes,9.04E-02,12.6,4.74,46.72,-29.57
+M13-ISO-70,Curillo,Eigenmannia trilineata,Invertivore,Fishes,3.01E-02,11.45,9.24,42.23,-28.66
+M14-ISO-51,Curillo,Electrophorus electricus,Carnivore-piscivore,Fishes,0.371594,11.52,7.83,34.21,-34.9
+M20-ISO-117,San Antonio de Getucha,Gymnocoriumbus sp,Invertivore,Fishes,4.77E-02,13.18,8.25,45.53,-28.12
+M11-ISO-44,Mecaya,Hemisorobium platyrhynchos,Carnivore-piscivore,Fishes,0.227892,14.58,10.06,39.36,-31.66
+M11-ISO-24,Mecaya,Hemisorobium platyrhynchos,Carnivore-piscivore,Fishes,0.472186,14.74,11.13,40.75,-29.82
+M14-ISO-57,Curillo,Hoplias malabaricus,Carnivore-piscivore,Fishes,0.182046,15.29,9.13,40.78,-35.45
+M14-ISO-53,Curillo,Hoplias malabaricus,Carnivore-piscivore,Fishes,0.132182,15.55,9.15,42.21,-35.74
+M20-ISO-17,San Antonio de Getucha,Hoplias malabaricus,Carnivore-piscivore,Fishes,5.73E-02,14.84,10,41.3,-24.87
+M24-ISO-59,Mecaya,Hoplias malabaricus,Carnivore-piscivore,Fishes,4.28E-02,14.57,7.75,39.74,-32.23
+M20-ISO-15,San Antonio de Getucha,Jupiaba anteroides,Invertivore,Fishes,4.68E-02,14.23,8.17,41.92,-26.34
+M24-ISO-58,Mecaya,Jupiaba anteroides,Invertivore,Fishes,3.12E-02,12.66,6.34,39.48,-29.15
+M20-ISO-16,San Antonio de Getucha,Jupiaba anteroides,Invertivore,Fishes,3.11E-02,13.35,7.09,44,-28.96
+M20-ISO-14,San Antonio de Getucha,Jupiaba anteroides,Invertivore,Fishes,2.84E-02,14.68,6.99,42.8,-29.23
+M13-ISO-65,Curillo,Knodus moenkhausii,Invertivore,Fishes,3.58E-02,13.76,8.89,43.64,-24.99
+M13-ISO-69,Curillo,Knodus sp,Invertivore,Fishes,2.11E-02,12.79,8.09,44.3,-25.65
+M15-ISO-41,Curillo,Liposarcus sp,Primary Consumer,Fishes,1.65E-02,14.86,7.02,42.1,-29.98
+M13-ISO-63,Curillo,Microcharacidium sp,Invertivore,Fishes,6.33E-02,12.32,7.1,45.81,-27.66
+M17-ISO-77,San Antonio de Getucha,Microcharacidium sp,Invertivore,Fishes,3.15E-02,12.2,8.19,45.89,-30.32
+M1-ISO-110,Mecaya,Moenkhausia collettii,Invertivore,Fishes,3.00E-02,12.51,9.04,42.71,-27.26
+M20-ISO-115,San Antonio de Getucha,Moenkhausia cotinho,Invertivore,Fishes,5.62E-02,13.41,10.53,43,-25.8
+M13-ISO-66,Curillo,Moenkhausia gr. lepidura,Invertivore,Fishes,0.11432,11.64,9.48,45.27,-25.08
+M20-ISO-13,San Antonio de Getucha,Moenkhausia oligolepis,Invertivore,Fishes,7.52E-02,14.62,10.18,41.26,-27.28
+M20-ISO-12,San Antonio de Getucha,Moenkhausia oligolepis,Invertivore,Fishes,6.52E-02,14.5,9.94,40.98,-26.92
+M5-ISO-101,Mecaya,Moenkhausia sp,Invertivore,Fishes,1.88E-02,12.53,8.3,45.42,-26.3
+M5-ISO-102,Mecaya,Moenkhausia sp 3,Invertivore,Fishes,2.94E-02,12.39,8.4,45.17,-25.74
+M20-ISO-116,San Antonio de Getucha,Odontostilbe fugitiva,Primary Consumer,Fishes,7.16E-02,2.38,8.69,9.52,-29.88
+M3-ISO-26,Mecaya,Panaque nigrolineatus,Primary Consumer,Fishes,7.82E-03,13.94,8.29,40.29,-28.65
+M17-ISO-81,San Antonio de Getucha,Parodon pongoensis,Primary Consumer,Fishes,3.61E-02,12.67,8.75,45.17,-30.12
+M3-ISO-27,Mecaya,Piaractus brachypomus,Primary Consumer,Fishes,3.86E-02,14.18,6.2,41.46,-22.57
+M13-ISO-72,Curillo,Pimelodella aff. cristata,Omnivore,Fishes,0.231494,12.21,9.72,44.75,-25.31
+M23-ISO-8,San Antonio de Getucha,Pimelodella aff. cristata,Omnivore,Fishes,0.217432,14.55,9.65,43.06,-30.22
+M23-ISO-9,San Antonio de Getucha,Pimelodella aff. cristata,Omnivore,Fishes,0.148296,14.56,9.48,42.07,-26.88
+M23-ISO-7,San Antonio de Getucha,Pimelodella aff. cristata,Omnivore,Fishes,0.12817,14.21,9.58,40.84,-27.86
+M23-ISO-6,San Antonio de Getucha,Pimelodella aff. cristata,Omnivore,Fishes,8.89E-02,14.82,10.58,42.08,-26.5
+M23-ISO-4,San Antonio de Getucha,Pimelodella sp 1,Omnivore,Fishes,0.328592,13.79,10.34,39.97,-26.23
+M23-ISO-5,San Antonio de Getucha,Pimelodella sp 1,Omnivore,Fishes,0.172978,14.06,9.7,42.03,-28.1
+M23-ISO-3,San Antonio de Getucha,Pimelodella sp 1,Omnivore,Fishes,0.159932,14.49,10.27,40.91,-26.81
+M25-ISO-143,San Antonio de Getucha,Pimelodella sp 1,Omnivore,Fishes,1.37E-02,13.96,11.4,42.14,-25.18
+M2-ISO-29,Mecaya,Pimelodus blochii,Omnivore,Fishes,0.25505,14.98,9.49,41.68,-26.75
+M2-ISO-32,Mecaya,Pimelodus blochii,Omnivore,Fishes,0.134078,14.39,9.67,40.31,-27.98
+M2-ISO-30,Mecaya,Pimelodus blochii,Omnivore,Fishes,0.121562,14.16,8.42,41.95,-27.55
+M11-ISO-46,Mecaya,Pimelodus blochii,Omnivore,Fishes,8.87E-02,12.54,7.96,43.91,-28.32
+M11-ISO-23,Mecaya,Plagioscion squamosissimus,Carnivore-piscivore,Fishes,0.830528,14.79,12.79,42.27,-29.6
+M6-ISO-106,Mecaya,Platydoras costatus,Omnivore,Fishes,7.61E-02,13.6,8.67,42.07,-26.65
+M9-ISO-33,Mecaya,Potamotrygon constellata,Carnivore-piscivore,Fishes,0.542002,14.19,8.45,42.01,-29.13
+M7-ISO-22,Mecaya,Potamotrygon motoro,Carnivore-piscivore,Fishes,0.319568,14.14,11.26,41.5,-29.18
+M14-ISO-49,Curillo,Potmorhina latior,Primary Consumer,Fishes,8.56E-02,15.01,9.97,40.53,-35.29
+M14-ISO-54,Curillo,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,0.114446,14.99,8.25,39.82,-32.77
+M15-ISO-37,Curillo,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,0.10942,14.57,7.2,40.53,-35.16
+M11-ISO-48,Mecaya,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,0.10925,14.96,6.98,39.56,-35.16
+M15-ISO-35,Curillo,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,9.57E-02,14.88,7.91,41.32,-31.64
+M14-ISO-55,Curillo,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,7.49E-02,15.44,7.73,40.09,-34.62
+M11-ISO-47,Mecaya,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,7.01E-02,13.43,6.52,36.15,-36.66
+M15-ISO-38,Curillo,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,6.93E-02,14.86,7.31,40.28,-32.29
+M25-ISO-144,San Antonio de Getucha,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,6.38E-02,13.92,7.97,41.48,-25.56
+M10-ISO-20,Mecaya,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,6.28E-02,14.01,8.42,41.04,-27.12
+M15-ISO-36,Curillo,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,5.47E-02,14.6,8.2,39.73,-34.82
+M15-ISO-39,Curillo,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,4.07E-02,14.36,6.77,36.19,-34.1
+M25-ISO-145,San Antonio de Getucha,Prochilodus rubrotaeniatus,Primary Consumer,Fishes,1.70E-02,12.92,7.6,42.79,-33.89
+M15-ISO-42,Curillo,Prystobrycon calmoni,Carnivore-piscivore,Fishes,0.3909,14.86,10.17,41.54,-32.52
+M11-ISO-21,Mecaya,Pseudoplatystoma fasciatum,Carnivore-piscivore,Fishes,0.24705,14.5,9.77,41.27,-33.73
+M7-ISO-25,Mecaya,Raphiodon vulpinis,Carnivore-piscivore,Fishes,0.818452,14.38,10.9,40.29,-30.8
+M6-ISO-105,Mecaya,Raphiodon vulpinis,Carnivore-piscivore,Fishes,0.8105,14.34,11.78,41.71,-30.44
+M11-ISO-45,Mecaya,Raphiodon vulpinis,Carnivore-piscivore,Fishes,0.738374,15.77,10.36,42.79,-29.63
+M15-ISO-40,Curillo,Raphiodon vulpinis,Carnivore-piscivore,Fishes,0.720432,26.37,9.13,46.23,-35.11
+M15-ISO-34,Curillo,Raphiodon vulpinis,Carnivore-piscivore,Fishes,0.678084,14.61,10.18,43.27,-32.8
+M19-ISO-130,San Antonio de Getucha,Serrapinnus sp,Primary Consumer,Fishes,0.10641,13.9,10.56,43.43,-29.12
+M12-ISO-75,Curillo,Serrapinnus sp,Primary Consumer,Fishes,7.06E-02,11.93,9.38,45.75,-31.62
+M2-ISO-31,Mecaya,Serrasalmus medinai,Carnivore-piscivore,Fishes,0.209006,14.68,11.18,39.66,-28.95
+M14-ISO-56,Curillo,Serrasalmus medinai,Carnivore-piscivore,Fishes,0.2061,14.96,9.64,40.15,-34.97
+M14-ISO-50,Curillo,Serrasalmus medinai,Carnivore-piscivore,Fishes,0.188136,15.21,7.69,40.68,-39.6
+M14-ISO-52,Curillo,Serrasalmus medinai,Carnivore-piscivore,Fishes,0.18075,14.87,10.4,40.36,-35.59
+M25-ISO-141,San Antonio de Getucha,Serrasalmus spiropleura,Carnivore-piscivore,Fishes,0.4327,13.49,11.78,38.5,-23.69
+M20-ISO-118,San Antonio de Getucha,Steindachnerina argentea,Primary Consumer,Fishes,1.56E-02,14.75,9.34,43.14,-37.97
+M17-ISO-78,San Antonio de Getucha,Steindachnerina guentheri,Primary Consumer,Fishes,3.95E-02,12.14,7.91,45.35,-31.19
+M17-ISO-79,San Antonio de Getucha,Steindachnerina guentheri,Primary Consumer,Fishes,2.35E-02,12.6,7.92,44.72,-33.05
+M15-ISO-43,Curillo,Steindachnerina sp,Primary Consumer,Fishes,9.59E-02,14.64,8.64,40.24,-37.54
+M18-ISO-135,San Antonio de Getucha,Tatia intermedia,Invertivore,Fishes,4.98E-02,11.42,9.62,44.77,-28.71
+M25-ISO-139,San Antonio de Getucha,Tetragonopterus argenteus,Invertivore,Fishes,0.155796,12.2,8.44,39.16,-26.86
+M25-ISO-140,San Antonio de Getucha,Tetragonopterus argenteus,Invertivore,Fishes,5.61E-02,12.55,8.53,45.28,-26.8
+M6-ISO-107,Mecaya,Trachelyopterus galeatus,Invertivore,Fishes,4.94E-02,13.81,7.95,41.06,-28.29
+M17-ISO-93,San Antonio de Getucha,Vandellia cirrhosa,Carnivore-piscivore,Fishes,0.121792,13.38,14.17,45.16,-25.74
+M22-ISO-2,Mecaya,Zungaro zungaro,Carnivore-piscivore,Fishes,2.763.334,15.1,11.93,41.13,-28.8
+NA,Mecaya,NA,NA,Periphyton,NA,4.041,17.3833692,-30.843,12.68961787
+NA,Mecaya,NA,NA,Periphyton,NA,4.11,17.3389368,-36.453,6.996355418
+NA,Mecaya,NA,NA,Periphyton,NA,3.061,13.0076464,-31.563,3.359701578
+NA,Mecaya,NA,NA,Periphyton,NA,1.503,16.8868305,-29.17,7.707014275
+NA,San Antonio de Getuchá,NA,NA,Periphyton,NA,3.053,4.0872331,-30.323,9.310154186
+NA,Mecaya,NA,NA,Periphyton,NA,6.133,12.079199,-31.97,9.192239987
+NA,Mecaya,NA,NA,Periphyton,NA,1.875,12.544672,-21.19,11.98793893
+NA,Mecaya,NA,NA,Periphyton,NA,1.145,9.2919738,-31.768,13.61082054
+NA,Mecaya,NA,NA,Periphyton,NA,0.154,17.708375,-31.979,15.78119447
+NA,Mecaya,NA,NA,Periphyton,NA,1.552,4.8139251,-28.175,12.34185338
+NA,Mecaya,NA,NA,Periphyton,NA,5.363,22.53891,-29.525,10.8643144
+NA,Curillo,NA,NA,Periphyton,NA,-0.007,22.709268,-28.172,12.63730533
+NA,Curillo,NA,NA,Periphyton,NA,1.095,8.2038248,-31.763,15.3860584
+NA,Curillo,NA,NA,Periphyton,NA,-1.598,20.6211897,-32.559,12.36942949
+NA,Curillo,NA,NA,Periphyton,NA,0.153,15.9220195,-27.204,15.45461627
+NA,Curillo,NA,NA,Periphyton,NA,3.794,13.1966904,-30.187,10.00362298
+A001CI,Mecaya,Amazilia versicolor,Nectarivore,Birds,NA,14.147.171,9.852,503.157.436,-25.133
+A002CRI,Mecaya,Poecilotriccus latirostris,Invertivore,Birds,NA,146.479.475,9.282,460.726.656,-26.618
+A003CRI,Mecaya,Phaethornis atrimentalis,Nectarivore,Birds,22.6,146.051.644,10.027,407.039.022,-28.734
+A004CRI,Mecaya,Phaethornis bourcieri,Nectarivore,Birds,NA,12.218.685,8.566,4.477.366,-26.648
+A005CRI,Mecaya,Glaucis hirsutus,Nectarivore,Birds,10.37,143.880.924,10.369,434.703.528,-28.304
+A006CRI,Mecaya,Thraupis episcopus,Frugi-granivore,Birds,4.3,190.600.451,8.242,446.408.352,-25.663
+A007CRI,Mecaya,Thraupis episcopus,Frugi-granivore,Birds,0.837,149.498.139,8.93,456.555.045,-26.639
+A008CRI,Mecaya,Chloroceryle aenea,Aquatic predator,Birds,2.298,147.829.739,11.008,470.110.895,-34.523
+A009CRI,Mecaya,Elaenia sp.,Invertivore,Birds,4.587,153.719.486,8.287,466.707.801,-26.706
+A010CRI,Mecaya,Pipra filicauda,Invertivore,Birds,0.8113,153.691.841,7.575,453.472.201,-27.909
+A011CRI,Mecaya,Tolmomyias sp.,Invertivore,Birds,1.783,147.899.369,8.456,442.244.275,-27.144
+A012CRI,Mecaya,Tyrannus melancholicus,Invertivore,Birds,1.019,150.561.308,9.6,437.936.524,-25.66
+A013CRI,Mecaya,Xiphorhynchus guttatus,Invertivore,Birds,1.078,148.392.806,9.1,442.925.804,-25.4
+A014CRI,Mecaya,Glaucis hirsutus,Nectarivore,Birds,2.252,146.140.833,9.96,4.535.031,-28.421
+A015CRI,Mecaya,Amazilia versicolor,Nectarivore,Birds,1.576,142.947.334,9.567,427.393.235,-27.409
+A016CRI,Mecaya,Chloroceryle aenea,Aquatic predator,Birds,2.367,151.569.771,10.844,452.961.603,-35.604
+A017CRI,Mecaya,Dendrocyncla fuliginosa,Invertivore,Birds,1.433,148.457.917,8.506,417.718.727,-26.573
+A019CRI,Curillo,Amazilia versicolor,Nectarivore,Birds,0.5545,14.642.878,8.633,424.513.978,-26.794
+A020CRI,Curillo,Monasa nigrifrons,Omnivore,Birds,0.934,143.004.826,7.993,420.805.938,-26.95
+A021CRI,Curillo,Phaethornis hispidus,Nectarivore,Birds,8.732,143.905.751,8.932,428.944.818,-28.418
+A022CRI,Curillo,Florisuga mellivora,Nectarivore,Birds,1.643,147.552.721,11.393,429.985.539,-26.052
+A023CRI,Curillo,Phaethornis hispidus,Nectarivore,Birds,0.9054,146.541.852,8.691,428.800.554,-25.375
+A024CRI,Curillo,Leptotila rufaxilla,Frugi-granivore,Birds,0.1597,153.025.802,6.023,426.515.044,-26.56
+A025CRI,Curillo,Dendrexetastes rufigula,Invertivore,Birds,1.441,147.886.064,7.088,414.688.282,-26.565
+A026CRI,Curillo,Cacicus cela,Omnivore,Birds,0.32135,147.488.871,7.606,415.100.252,-25.608
+A027CRI,Curillo,Cacicus cela,Omnivore,Birds,0.8933,155.862.726,7.425,442.513.829,-25.558
+A028CRI,Curillo,Dendrocolaptes picumnus,Invertivore,Birds,0.6066,147.359.711,8.737,433.002.516,-26.446
+A031CRI,San Antonio de Getuchá,Leptotila rufaxilla,Frugi-granivore,Birds,0.1065,15.025.885,6.598,429.794.225,-27.705
+BD1,Mecaya,Fruits,NA,Allochthonous plants,NA,2.5,5.73,43.68,-29.63
+BD4,Mecaya,Fruits,NA,Allochthonous plants,NA,10.55,5.12,36.24,-26.7
+BD10,Mecaya,Fruits,NA,Allochthonous plants,NA,2.38,1.22,47.25,-31.76
+BD18,Curillo,Fruits,NA,Allochthonous plants,NA,10.66,7.35,37.68,-38.3
+BD25,Mecaya,Fruits,NA,Allochthonous plants,NA,1.1,5.49,39.61,-27.45
+BD26,Mecaya,Fruits,NA,Allochthonous plants,NA,2.42,4.87,48.07,-29.76
+BD27,Mecaya,Fruits,NA,Allochthonous plants,NA,7.09,8.08,46.56,-27.06
+BD29,Mecaya,Fruits,NA,Allochthonous plants,NA,1.92,6.1,46.11,-27.32
+BD39,Mecaya,Seeds,NA,Allochthonous plants,NA,4.17,1.17,49.26,-33.08
+BD40,Mecaya,Fruits,NA,Allochthonous plants,NA,1.44,5.26,42.5,-28.7
+BD42,Mecaya,Fruits,NA,Allochthonous plants,NA,11.2,2.74,43.69,-33.15
+BD52,San Antonio de Getuchá,Seeds,NA,Allochthonous plants,NA,4.57,1.94,27.18,-24.74
+BD58,Mecaya,Seeds,NA,Allochthonous plants,NA,0.96,11.1,53.65,-29.48
+BD60,Mecaya,Fruits,NA,Allochthonous plants,NA,6.27,9.24,54.28,-29.33
+BD72,San Antonio de Getuchá,Fruits,NA,Allochthonous plants,NA,0.606,10.7,33.35,-25.58
+BD83,Mecaya,Seeds,NA,Allochthonous plants,NA,2.26,8.92,36.3,-26.18
+BD103,Curillo,Seeds,NA,Allochthonous plants,NA,1.62,7.09,22.56,-23.57
+BD109,Curillo,Fruits,NA,Allochthonous plants,NA,2.2,3.04,39.35,-25.1
+BD118,Curillo,Seeds,NA,Allochthonous plants,NA,1.58,3.78,32.17,-27.55
+BD129,Mecaya,Seeds,NA,Allochthonous plants,NA,0.9,3.2,40.64,-29.24
+BD158,San Antonio de Getuchá,Seeds,NA,Allochthonous plants,NA,2.88,6.02,47.63,-28.05
+BD160,San Antonio de Getuchá,Fruits,NA,Allochthonous plants,NA,2.27,6.26,41.28,-26.07
+BD171,San Antonio de Getuchá,Seeds,NA,Allochthonous plants,NA,0.79,8.34,31.1,-24.45
+BD203,San Antonio de Getuchá,Seeds,NA,Allochthonous plants,NA,0.89,5.95,39.01,-27.51

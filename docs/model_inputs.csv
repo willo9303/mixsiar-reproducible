@@ -1,0 +1,30 @@
+model,consumer_n,input_source_order,source,source_n,source_sd_d13C,source_sd_d15N
+Birds_Aquatic_predator,2,1,Fish | Primary Consumer,27,3.9067035673996,1.0260734772065696
+Birds_Aquatic_predator,2,2,Fish | Invertivore,36,2.1216225260062505,1.235654797173457
+Birds_Aquatic_predator,2,3,Fish | Omnivore,16,1.3416109719288976,1.3404719318210285
+Birds_Aquatic_predator,2,4,Aquatic macroinvertebrates,37,5.287184645818508,2.219386099275576
+Birds_FrugiGranivore,4,1,Allochthonous plants,24,3.2951290357615495,2.7709792322926385
+Birds_FrugiGranivore,4,2,Allochthonous insects,53,1.7362005000409733,2.3962814650916835
+Birds_Invertivore,9,1,Allochthonous insects,53,1.7362005000409733,2.3962814650916835
+Birds_Invertivore,9,2,Aquatic macroinvertebrates,37,5.287184645818508,2.219386099275576
+Birds_Nectarivore,10,1,Allochthonous plants,24,3.2951290357615495,2.7709792322926385
+Birds_Nectarivore,10,2,Aquatic macroinvertebrates,37,5.287184645818508,2.219386099275576
+Birds_Nectarivore,10,3,Allochthonous insects,53,1.7362005000409733,2.3962814650916835
+Birds_Omnivore,3,1,Allochthonous insects,53,1.7362005000409733,2.3962814650916835
+Birds_Omnivore,3,2,Aquatic macroinvertebrates,37,5.287184645818508,2.219386099275576
+Birds_Omnivore,3,3,Allochthonous plants,24,3.2951290357615495,2.7709792322926385
+Fish_Carnivore_piscivore,28,1,Fish | Primary Consumer,27,3.9067035673996,1.0260734772065696
+Fish_Carnivore_piscivore,28,2,Fish | Invertivore,36,2.1216225260062505,1.235654797173457
+Fish_Carnivore_piscivore,28,3,Fish | Omnivore,16,1.3416109719288976,1.3404719318210285
+Fish_Invertivore,36,1,Detritus,80,2.873782167052835,2.869863310791401
+Fish_Invertivore,36,2,Allochthonous insects,53,1.7362005000409733,2.3962814650916835
+Fish_Invertivore,36,3,Aquatic macroinvertebrates,37,5.287184645818508,2.219386099275576
+Fish_Omnivore,16,1,Detritus,80,2.873782167052835,2.869863310791401
+Fish_Omnivore,16,2,Phytoplankton,3,1.9919438579772608,0.5884932738216583
+Fish_Omnivore,16,3,Allochthonous insects,53,1.7362005000409733,2.3962814650916835
+Fish_Omnivore,16,4,Macrophytes,36,6.316570097703845,2.643349287767861
+Fish_Omnivore,16,5,Aquatic macroinvertebrates,37,5.287184645818508,2.219386099275576
+Fish_Primary_Consumer,27,1,Detritus,80,2.873782167052835,2.869863310791401
+Fish_Primary_Consumer,27,2,Phytoplankton,3,1.9919438579772608,0.5884932738216583
+Fish_Primary_Consumer,27,3,Macrophytes,36,6.316570097703845,2.643349287767861
+Fish_Primary_Consumer,27,4,Periphyton,16,3.3711978709032056,5.690060137339618

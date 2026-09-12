@@ -1,0 +1,11 @@
+column,description,usage
+Code,Original sample identifier; may be missing,Metadata
+Municipality,Sampling municipality,Metadata; no municipality effect in models
+Species,Species name as supplied,Species summary; no species effect in models
+Trophic guild,Consumer feeding guild,Defines model consumers together with Group
+Group,Taxonomic or resource group,Defines consumers and food sources
+THg,Total mercury; unit and wet/dry basis not specified in supplied material,Descriptive summaries only
+NT,Original nitrogen field; ambiguous multi-dot values retained as text,Not used
+d15N,Nitrogen isotope delta value; original scale retained,Model isotope
+CT,Original carbon field; ambiguous multi-dot values retained as text,Not used
+d13C,Carbon isotope delta value; original scale retained,Model isotope
