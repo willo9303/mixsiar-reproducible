@@ -1,0 +1,10 @@
+Group,Trophic_guild,Entity_key,n
+Fish,Invertivore,Fish | Invertivore,36
+Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,28
+Fish,Primary Consumer,Fish | Primary Consumer,27
+Fish,Omnivore,Fish | Omnivore,16
+Birds,Nectarivore,Birds | Nectarivore,10
+Birds,Invertivore,Birds | Invertivore,9
+Birds,FrugiGranivore,Birds | FrugiGranivore,4
+Birds,Omnivore,Birds | Omnivore,3
+Birds,Aquatic predator,Birds | Aquatic predator,2

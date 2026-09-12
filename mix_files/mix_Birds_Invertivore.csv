@@ -1,0 +1,10 @@
+ID,Municipality,Species,Group,Trophic_guild,Entity_key,d13C,d15N,THg
+A002CRI,Mecaya,Poecilotriccus latirostris,Birds,Invertivore,Birds | Invertivore,-26.618,9.282,NA
+A009CRI,Mecaya,Elaenia sp.,Birds,Invertivore,Birds | Invertivore,-26.706,8.287,4.587
+A010CRI,Mecaya,Pipra filicauda,Birds,Invertivore,Birds | Invertivore,-27.909,7.575,0.8113
+A011CRI,Mecaya,Tolmomyias sp.,Birds,Invertivore,Birds | Invertivore,-27.144,8.456,1.783
+A012CRI,Mecaya,Tyrannus melancholicus,Birds,Invertivore,Birds | Invertivore,-25.66,9.6,1.019
+A013CRI,Mecaya,Xiphorhynchus guttatus,Birds,Invertivore,Birds | Invertivore,-25.4,9.1,1.078
+A017CRI,Mecaya,Dendrocyncla fuliginosa,Birds,Invertivore,Birds | Invertivore,-26.573,8.506,1.433
+A025CRI,Curillo,Dendrexetastes rufigula,Birds,Invertivore,Birds | Invertivore,-26.565,7.088,1.441
+A028CRI,Curillo,Dendrocolaptes picumnus,Birds,Invertivore,Birds | Invertivore,-26.446,8.737,0.6066

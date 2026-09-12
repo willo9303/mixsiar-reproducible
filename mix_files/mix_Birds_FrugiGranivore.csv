@@ -1,0 +1,5 @@
+ID,Municipality,Species,Group,Trophic_guild,Entity_key,d13C,d15N,THg
+A006CRI,Mecaya,Thraupis episcopus,Birds,FrugiGranivore,Birds | FrugiGranivore,-25.663,8.242,4.3
+A007CRI,Mecaya,Thraupis episcopus,Birds,FrugiGranivore,Birds | FrugiGranivore,-26.639,8.93,0.837
+A024CRI,Curillo,Leptotila rufaxilla,Birds,FrugiGranivore,Birds | FrugiGranivore,-26.56,6.023,0.1597
+A031CRI,San Antonio de Getucha,Leptotila rufaxilla,Birds,FrugiGranivore,Birds | FrugiGranivore,-27.705,6.598,0.1065

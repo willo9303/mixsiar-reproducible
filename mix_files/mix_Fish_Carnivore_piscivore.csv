@@ -1,0 +1,29 @@
+ID,Municipality,Species,Group,Trophic_guild,Entity_key,d13C,d15N,THg
+M11-ISO-18,Mecaya,Ageneiousus brevifilis,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-30.32,10.18,0.260184
+M22-ISO-1,Mecaya,Brachyplatystoma vaillantii,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-31.6,11.86,NA
+M3-ISO-28,Mecaya,Calophysus macropterus,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-25.1,10.81,NA
+M25-ISO-142,San Antonio de Getucha,Calophysus macropterus,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-26.04,10.92,0.377254
+M14-ISO-51,Curillo,Electrophorus electricus,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-34.9,7.83,0.371594
+M11-ISO-44,Mecaya,Hemisorobium platyrhynchos,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-31.66,10.06,0.227892
+M11-ISO-24,Mecaya,Hemisorobium platyrhynchos,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-29.82,11.13,0.472186
+M14-ISO-57,Curillo,Hoplias malabaricus,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-35.45,9.13,0.182046
+M14-ISO-53,Curillo,Hoplias malabaricus,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-35.74,9.15,0.132182
+M20-ISO-17,San Antonio de Getucha,Hoplias malabaricus,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-24.87,10,0.0573
+M24-ISO-59,Mecaya,Hoplias malabaricus,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-32.23,7.75,0.0428
+M11-ISO-23,Mecaya,Plagioscion squamosissimus,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-29.6,12.79,0.830528
+M9-ISO-33,Mecaya,Potamotrygon constellata,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-29.13,8.45,0.542002
+M7-ISO-22,Mecaya,Potamotrygon motoro,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-29.18,11.26,0.319568
+M15-ISO-42,Curillo,Prystobrycon calmoni,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-32.52,10.17,0.3909
+M11-ISO-21,Mecaya,Pseudoplatystoma fasciatum,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-33.73,9.77,0.24705
+M7-ISO-25,Mecaya,Raphiodon vulpinis,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-30.8,10.9,0.818452
+M6-ISO-105,Mecaya,Raphiodon vulpinis,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-30.44,11.78,0.8105
+M11-ISO-45,Mecaya,Raphiodon vulpinis,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-29.63,10.36,0.738374
+M15-ISO-40,Curillo,Raphiodon vulpinis,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-35.11,9.13,0.720432
+M15-ISO-34,Curillo,Raphiodon vulpinis,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-32.8,10.18,0.678084
+M2-ISO-31,Mecaya,Serrasalmus medinai,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-28.95,11.18,0.209006
+M14-ISO-56,Curillo,Serrasalmus medinai,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-34.97,9.64,0.2061
+M14-ISO-50,Curillo,Serrasalmus medinai,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-39.6,7.69,0.188136
+M14-ISO-52,Curillo,Serrasalmus medinai,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-35.59,10.4,0.18075
+M25-ISO-141,San Antonio de Getucha,Serrasalmus spiropleura,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-23.69,11.78,0.4327
+M17-ISO-93,San Antonio de Getucha,Vandellia cirrhosa,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-25.74,14.17,0.121792
+M22-ISO-2,Mecaya,Zungaro zungaro,Fish,Carnivore-piscivore,Fish | Carnivore-piscivore,-28.8,11.93,NA
